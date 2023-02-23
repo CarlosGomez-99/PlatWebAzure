@@ -14,11 +14,6 @@ C:\Users\drcgo\Educacion-Platzi\WebAppsAzure\PlatWebAzure\obj\Debug\net6.0\Platz
 C:\Users\drcgo\Educacion-Platzi\WebAppsAzure\PlatWebAzure\obj\Debug\net6.0\PlatziAzure.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\drcgo\Educacion-Platzi\WebAppsAzure\PlatWebAzure\obj\Debug\net6.0\PlatziAzure.RazorAssemblyInfo.cache
 C:\Users\drcgo\Educacion-Platzi\WebAppsAzure\PlatWebAzure\obj\Debug\net6.0\PlatziAzure.RazorAssemblyInfo.cs
-C:\Users\drcgo\Educacion-Platzi\WebAppsAzure\PlatWebAzure\obj\Debug\net6.0\staticwebassets\msbuild.PlatziAzure.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\drcgo\Educacion-Platzi\WebAppsAzure\PlatWebAzure\obj\Debug\net6.0\staticwebassets\msbuild.build.PlatziAzure.props
-C:\Users\drcgo\Educacion-Platzi\WebAppsAzure\PlatWebAzure\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PlatziAzure.props
-C:\Users\drcgo\Educacion-Platzi\WebAppsAzure\PlatWebAzure\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PlatziAzure.props
-C:\Users\drcgo\Educacion-Platzi\WebAppsAzure\PlatWebAzure\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\drcgo\Educacion-Platzi\WebAppsAzure\PlatWebAzure\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\drcgo\Educacion-Platzi\WebAppsAzure\PlatWebAzure\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\drcgo\Educacion-Platzi\WebAppsAzure\PlatWebAzure\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
@@ -29,3 +24,4 @@ C:\Users\drcgo\Educacion-Platzi\WebAppsAzure\PlatWebAzure\obj\Debug\net6.0\refin
 C:\Users\drcgo\Educacion-Platzi\WebAppsAzure\PlatWebAzure\obj\Debug\net6.0\PlatziAzure.pdb
 C:\Users\drcgo\Educacion-Platzi\WebAppsAzure\PlatWebAzure\obj\Debug\net6.0\PlatziAzure.genruntimeconfig.cache
 C:\Users\drcgo\Educacion-Platzi\WebAppsAzure\PlatWebAzure\obj\Debug\net6.0\ref\PlatziAzure.dll
+C:\Users\drcgo\Educacion-Platzi\WebAppsAzure\PlatWebAzure\bin\Debug\net6.0\global.json
